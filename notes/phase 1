@@ -1,0 +1,16 @@
+rtl/defines.vh DONE
+rtl/mux2to1.v DONE
+rtl/mux4to1.v DONE
+rtl/pc_reg.v -> pc to next pc DONE
+rtl/pc_adder.v DONE
+rtl/instr_mem.v DONE
+rtl/instr_decoder.v
+rtl/imm_gen.v
+rtl/reg_file.v
+rtl/alu.v
+rtl/alu_control.v
+rtl/branch_comp.v
+rtl/data_mem.v
+rtl/write_back_mux.v
+rtl/control_unit.v
+rtl/single_cycle_top.v
